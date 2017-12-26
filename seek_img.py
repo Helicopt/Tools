@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+# author: toka
+
 import httplib
 import ftplib
 from re import *
